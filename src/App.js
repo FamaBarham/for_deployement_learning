@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn HOW TO DEPLOY REACT ON VERCEL
         </a>
       </header>
     </div>
